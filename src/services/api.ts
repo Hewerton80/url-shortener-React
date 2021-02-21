@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: process.env.URL_BACKEND || 'http://localhost:3001'
+    baseURL: process.env.REACT_APP_URL_BACKEND || 'http://localhost:3001'
     // baseURL: 'https://ur-lshortener-backend.herokuapp.com'
 });
 
