@@ -1,8 +1,8 @@
 import axios from 'axios';
 
 const api = axios.create({
-    // baseURL: process.env.URL_BACKEND || 'http://localhost:3001'
-    baseURL: 'https://ur-lshortener-backend.herokuapp.com'
+    baseURL: process.env.URL_BACKEND || 'http://localhost:3001'
+    // baseURL: 'https://ur-lshortener-backend.herokuapp.com'
 });
 
 api.interceptors.request.use((config) => {
