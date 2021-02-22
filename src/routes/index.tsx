@@ -34,12 +34,7 @@ const Routes = () => {
                 <Route
                     exact
                     path={ENUM_ROUTES.Redirect}
-                    render={(routeProps: any) => (
-                        isSinged ?
-                            <RedirectToURL {...routeProps} />
-                            :
-                            <Redirect to={ENUM_ROUTES.Home} />
-                    )}
+                    component={RedirectToURL}
                 />
 
                 <Route
