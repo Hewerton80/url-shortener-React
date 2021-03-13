@@ -5,8 +5,6 @@ const api = axios.create({
     // baseURL: 'https://ur-lshortener-backend.herokuapp.com'
 });
 
-
-
 api.interceptors.request.use((config) => {
     const token = localStorage.getItem('@token');
     if (token) {

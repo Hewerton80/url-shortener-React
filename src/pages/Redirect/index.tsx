@@ -5,7 +5,7 @@ const Redirect: React.FC = (props: any) => {
   const { getUrlByCode, url } = useShortUrl();
 
   useEffect(()=>{
-    const {code} = props?.match?.params;
+    const { code } = props?.match?.params;
     console.log(code);
     getUrlByCode(code);
   },[]);
