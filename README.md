@@ -1,7 +1,12 @@
 
+
 ## About 📄
 Sistema web onde seja possível um usuário previamente cadastrado realizar o
-encurtamento de uma URL. 👉 <a href='https://url-shortener-hewerton80.vercel.app' target='_blank'>VER DEMO</a>
+encurtamento de uma URL. 👉 <a href='https://url-shortener-hewerton80.vercel.app' target='_blank'>VER DEMO</a><br/>
+
+<p align="center">
+<img src='https://user-images.githubusercontent.com/37268237/111044293-597e3880-8426-11eb-9e9c-0cc835eed6da.png' width='600'/>
+</p>
 
 ## Tools 🛠️
 - Geração de URLs encurtadas
