@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+
+## About 📄
+Sistema web onde seja possível um usuário previamente cadastrado realizar o
+encurtamento de uma URL.
+
+## Tools 🛠️
+- Geração de URLs encurtadas
+- Listas das URLs do usuário
+
+
+## Technologies 💻
+
+![React](https://img.shields.io/badge/-React-61dafb?style=plastic&logoColor=black&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logoColor=white&logo=typescript)
+![Styled components](https://img.shields.io/badge/styled--components-1572b6?style=plastic&logoColor=white&logo=styled-components)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,7 +23,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn start`
+```bash
+yarn start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,12 +33,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
+```bash
+yarn test
+```
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+```bash
+bashyarn build
+```
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -29,8 +52,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
-
+```bash
+yarn eject
+```
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
@@ -44,3 +68,19 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## Contributors
+<hr>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Hewerton80">
+        <img src="https://avatars0.githubusercontent.com/u/37268237?s=400&v=4" width="100px;" alt="Hewerton Adão"/>
+        <br />
+        <sub><b>Hewerton Adão </b></sub>
+      </a><br />
+      <a href="https://github.com/Hewerton80" title="Code">💻</a>
+    </td>
+  </tr>
+</table>
